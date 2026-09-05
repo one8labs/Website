@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB24D"/>
+      <stop offset="45%" stop-color="#FF6A2B"/>
+      <stop offset="100%" stop-color="#E31E3C"/>
+    </linearGradient>
+  </defs>
+  <!-- "1" slash -->
+  <rect x="18" y="12" width="10" height="52" rx="4" fill="white" transform="rotate(-10 23 38)"/>
+  <!-- "8" shape using gradient -->
+  <path d="M45 15 C45 15 75 15 75 35 C75 48 62 52 62 52 C62 52 78 57 78 72 C78 88 60 88 52 88 C44 88 28 84 28 70 C28 57 44 52 44 52 C44 52 32 47 32 35 C32 20 45 15 45 15 Z" fill="url(#g1)"/>
+  <ellipse cx="55" cy="34" rx="12" ry="11" fill="#060607"/>
+  <ellipse cx="54" cy="70" rx="14" ry="12" fill="#060607"/>
+</svg>
